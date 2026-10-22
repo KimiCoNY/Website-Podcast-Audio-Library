@@ -18,5 +18,3 @@ sudo docker compose up -d --build
 ```
 
 Mở website tại `http://IP_VM:8080`. phpMyAdmin được bind vào loopback Ubuntu; xem hướng dẫn SSH tunnel để mở từ Windows. Đây mới là khung website công khai + database; làm admin, upload và giám sát theo các giai đoạn trong hướng dẫn.
-
-Các tài liệu gốc phù hợp và một số cấu hình giám sát bài 7 đã được đặt trong `references/` để tiện tra cứu.
