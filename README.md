@@ -8,7 +8,6 @@ Thư mục này là bộ khởi đầu để làm website quản lý và nghe po
 2. Đọc [hướng dẫn chi tiết đề tài](HUONG_DAN_CHI_TIET.md) để làm website và các phần còn lại.
 3. Sao chép `.env.example` thành `.env` và thay các mật khẩu mẫu trước khi chạy.
 4. Xem [bảng đối chiếu tài liệu đã gửi](references/README.md) để biết phần nào nên lấy từ từng bài.
-5. Không commit mật khẩu, file `.env`, file audio tải lên hoặc bản backup dữ liệu thật.
 
 ## Khởi chạy khung cơ bản
 
