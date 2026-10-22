@@ -7,7 +7,6 @@ Thư mục này là bộ khởi đầu để làm website quản lý và nghe po
 1. Đọc [hướng dẫn VirtualBox + PowerShell SSH](HUONG_DAN_UBUNTU_VIRTUALBOX.md) nếu dùng đúng môi trường đó.
 2. Đọc [hướng dẫn chi tiết đề tài](HUONG_DAN_CHI_TIET.md) để làm website và các phần còn lại.
 3. Sao chép `.env.example` thành `.env` và thay các mật khẩu mẫu trước khi chạy.
-4. Xem [bảng đối chiếu tài liệu đã gửi](references/README.md) để biết phần nào nên lấy từ từng bài.
 
 ## Khởi chạy khung cơ bản
 
