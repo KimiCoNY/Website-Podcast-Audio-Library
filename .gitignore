@@ -1,0 +1,9 @@
+.env
+uploads/*
+!uploads/.gitkeep
+backups/
+*.log
+grafana-data/
+prometheus-data/
+loki-data/
+references/source_materials/
