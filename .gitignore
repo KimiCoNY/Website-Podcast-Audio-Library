@@ -1,4 +1,6 @@
 .env
+.env.*
+!.env.example
 uploads/*
 !uploads/.gitkeep
 backups/
@@ -6,4 +8,5 @@ backups/
 grafana-data/
 prometheus-data/
 loki-data/
+promtail-data/
 references/source_materials/
